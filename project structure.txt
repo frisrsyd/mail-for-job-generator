@@ -1,0 +1,14 @@
+- src/
+  - components/
+    - NameInput.js
+    - CompanyInput.js
+    - EmailInput.js
+    - JobTitleInput.js
+    - TemplateDropdown.js
+    - CVInput.js
+    - PortfolioLinkInput.js
+    - EmailPreview.js
+  - App.js
+  - index.js
+  - styles/
+    - tailwind.css
